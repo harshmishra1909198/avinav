@@ -9,7 +9,7 @@ import './styles.css';
 const BIRTHDAY_CONFIG = {
   name: 'Abhinav Pandey',
   // Local birthday photos. Replace these paths only if the assets are moved.
-  photos: ['/asset/img1.jpeg', '/asset/img2.jpeg', '/asset/img3.jpeg', '/asset/img4.jpeg', '/asset/img5.jpeg'],
+  photos: ['/img1.jpeg', '/img2.jpeg', '/img3.jpeg', '/img4.jpeg', '/img5.jpeg'],
   backgroundImage: '/birthday-background.png',
   // Replace with a local file or URL, e.g. '/audio/birthday-song.mp3'. Music starts only after Tap to Open.
   music: '', sender: 'Didi & Jiju',
